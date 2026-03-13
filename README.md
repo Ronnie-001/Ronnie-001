@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm a computer science BSc student aspiring to become a software engineer. Currently focused on building scalable systems as solutions to real-world problems.
+I'm a Computer Science BSc student aspiring to become a software engineer, focusing on backend/distributed systems/systems programming. Currently focused on learning to build scalable systems as solutions to real-world problems.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronnie-001&theme=nord_dark" alt="GitHub Stats" style="width: 215px; height: auto;" />
